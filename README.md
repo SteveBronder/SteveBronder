@@ -3,7 +3,7 @@
 
 My open source work focuses on high performance computing for the Stan programming language. It mostly boils down to memory management and doing matrix automatic differentiation quickly on CPUs and GPUs. My other lines of research focus on time series forecasting, methodologies for validating machine learning models, and financial data collection. If you are interested in hiring me for consulting purposes please email me at [varkara@stevebronder.com](mailto:varkara@stevebronder.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveBronder&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveBronder&show_icons=true&theme=graywhite) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveBronder&layout=compact&theme=graywhite&hide=jupyter%20notebook,javascript,CSS,html,Fortran,TeX,Objective-C,coffeescript&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Get Coffee ☕
 
